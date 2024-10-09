@@ -1,0 +1,422 @@
+[
+  {
+    "book_number": 1,
+    "line_number": 1,
+    "latin": "In nova fert animus mūtātās dīcere fōrmās",
+    "english": "My mind carries me to speak of forms changed into new bodies",
+    "verbs": ["fert", "dīcere"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 2,
+    "latin": "corpora; dī, coeptīs (nam vōs mūtāstis et illās)",
+    "english": "O gods, inspire my beginnings (for you changed them too)",
+    "verbs": ["mūtāstis"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 3,
+    "latin": "adspīrāte meīs prīmāque ab orīgine mundī",
+    "english": "and lead my continuous song from the first origin of the world",
+    "verbs": ["adspīrāte"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 4,
+    "latin": "ad mea perpetuum dēdūcite tempora carmen.",
+    "english": "to my own times.",
+    "verbs": ["dēdūcite"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 5,
+    "latin": "Ante mare et terrās et quod tegit omnia caelum",
+    "english": "Before the sea and the lands and the sky that covers all",
+    "verbs": ["tegit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 6,
+    "latin": "ūnus erat tōtō nātūrae vultus in orbe,",
+    "english": "there was one face of nature in the whole world,",
+    "verbs": ["erat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 7,
+    "latin": "quem dīxēre chaos: rudis indīgestaque mōlēs",
+    "english": "which they called chaos: a raw and unorganized mass",
+    "verbs": ["dīxēre"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 8,
+    "latin": "nec quicquam nisi pondus iners congestaque eōdem",
+    "english": "nothing but inert weight and the discordant seeds of things not well joined together.",
+    "verbs": ["congestaque"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 9,
+    "latin": "nōn bene iūnctārum discordia sēmina rērum.",
+    "english": "The discordant seeds of things not well joined together.",
+    "verbs": ["iūnctārum"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 10,
+    "latin": "nūllus adhūc mundō praebēbat lūmina Tītān,",
+    "english": "No Titan yet provided light to the world,",
+    "verbs": ["praebēbat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 11,
+    "latin": "nec nova crēscendō reparābat cornua Phoebē,",
+    "english": "nor did Phoebe renew her new horns by growing,",
+    "verbs": ["crēscendō", "reparābat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 12,
+    "latin": "nec circumfūsō pendēbat in āere tellūs",
+    "english": "nor did the earth hang balanced in the surrounding air",
+    "verbs": ["pendēbat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 13,
+    "latin": "ponderibus lībrāta suīs, nec bracchia longō",
+    "english": "balanced by its own weights, nor had Amphitrite extended her arms along the long margin of the lands;",
+    "verbs": ["lībrāta"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 14,
+    "latin": "margine terrārum porrēxerat Amphītrītē;",
+    "english": "nor had Amphitrite extended her arms along the long margin of the lands;",
+    "verbs": ["porrēxerat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 15,
+    "latin": "utque āēr, tellūs illīc et pontus et aether.",
+    "english": "Thus the earth was unstable, the sea unfit for swimming, the air lacking light:",
+    "verbs": []
+  },
+  {
+    "book_number": 1,
+    "line_number": 16,
+    "latin": "Sīc erat īnstabilis tellūs, innābilis unda,",
+    "english": "Thus the earth was unstable, the sea unfit for swimming,",
+    "verbs": ["erat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 17,
+    "latin": "lūcis egēns āēr: nūllī sua fōrma manēbat,",
+    "english": "the air lacking light: no form retained its own shape,",
+    "verbs": ["manēbat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 18,
+    "latin": "obstābatque aliīs aliud, quia corpore in ūnō",
+    "english": "and one thing obstructed another, because in one body",
+    "verbs": ["obstābat"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 19,
+    "latin": "frīgida pugnābant calidīs, ūmentia siccīs,",
+    "english": "cold things fought with hot, moist with dry,",
+    "verbs": ["pugnābant"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 20,
+    "latin": "mollia cum dūrīs, sine pondere habentia pondus.",
+    "english": "soft with hard, things with weight with those without weight.",
+    "verbs": ["habentia"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 21,
+    "latin": "Hanc deus et melior lītem nātūra dirēmit.",
+    "english": "This strife a god and better nature resolved.",
+    "verbs": ["dirēmit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 22,
+    "latin": "Nam caelō terrās et terrīs abscidit undās,",
+    "english": "For he separated the lands from the sky and the waves from the lands,",
+    "verbs": ["abscidit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 23,
+    "latin": "et liquidum spissō sēcrēvit ab āere caelum.",
+    "english": "and he separated the clear sky from the dense air.",
+    "verbs": ["sēcrēvit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 24,
+    "latin": "Quae postquam ēvolvit caecōque exēmit acervō,",
+    "english": "After he unfolded these things and removed them from the blind heap,",
+    "verbs": ["ēvolvit", "exēmit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 25,
+    "latin": "dissociāta locīs concordī pāce ligāvit.",
+    "english": "he bound them, separated by places, in harmonious peace.",
+    "verbs": ["ligāvit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 26,
+    "latin": "Ignea convexī vīs et sine pondere caelī",
+    "english": "The fiery force of the convex sky and the weightless heaven",
+    "verbs": []
+  },
+  {
+    "book_number": 1,
+    "line_number": 27,
+    "latin": "ēmicuit summāque locum sibi fēcit in arce:",
+    "english": "flashed forth and made a place for itself in the highest citadel:",
+    "verbs": ["ēmicuit", "fēcit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 28,
+    "latin": "proximus est āēr illī levitāte locōque:",
+    "english": "next to it is the air in lightness and place:",
+    "verbs": ["est"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 29,
+    "latin": "dēnsior hīs tellūs, elementaque grandia trāxit",
+    "english": "denser than these is the earth, and it drew the large elements",
+    "verbs": ["trāxit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 30,
+    "latin": "et pressa est gravitāte suā: circumfluus ūmor",
+    "english": "and was pressed by its own weight: the surrounding moisture",
+    "verbs": ["pressa est"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 31,
+    "latin": "ultima possēdit solidumque coercuit orbem.",
+    "english": "occupied the outermost part and enclosed the solid globe.",
+    "verbs": ["possēdit", "coercuit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 32,
+    "latin": "Sīc ubi dispositam quisquis fuit ille deōrum",
+    "english": "Thus, when whoever of the gods it was had divided the mass",
+    "verbs": ["fuit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 33,
+    "latin": "congeriem secuit sectamque in membra redēgit,",
+    "english": "and cut it into parts and reduced it to members,",
+    "verbs": ["secuit", "redēgit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 34,
+    "latin": "prīncipiō terram, nē nōn aequālis ab omnī",
+    "english": "first he shaped the earth, so that it would not be unequal from any",
+    "verbs": []
+  },
+  {
+    "book_number": 1,
+    "line_number": 35,
+    "latin": "parte foret, magnī speciem glomerāvit in orbis.",
+    "english": "part, into the form of a great globe.",
+    "verbs": ["glomerāvit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 36,
+    "latin": "Tum freta diffūdit rapidīsque tumēscere ventīs",
+    "english": "Then he spread out the seas and ordered them to swell with swift winds",
+    "verbs": ["diffūdit", "tumēscere"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 37,
+    "latin": "iussit et ambītae circumdare lītora terrae.",
+    "english": "and to surround the shores of the encircled lands.",
+    "verbs": ["iussit", "circumdare"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 38,
+    "latin": "Addidit et fontēs et stāgna inmēnsa lacūsque",
+    "english": "He also added springs and immense pools and lakes",
+    "verbs": ["Addidit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 39,
+    "latin": "flūminaque oblīquīs cīnxit dēclīvia rīpīs,",
+    "english": "and he surrounded the sloping rivers with winding banks,",
+    "verbs": ["cīnxit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 40,
+    "latin": "quae, dīversa locīs, partim sorbentur ab ipsā,",
+    "english": "which, diverse in places, are partly absorbed by the earth itself,",
+    "verbs": ["sorbentur"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 41,
+    "latin": "in mare perveniunt partim campōque receptā",
+    "english": "partly reach the sea and, received by the plain,",
+    "verbs": ["perveniunt", "receptā"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 42,
+    "latin": "līberiōris aquae prō rīpīs lītora pulsant.",
+    "english": "beat the shores instead of banks with freer water.",
+    "verbs": ["pulsant"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 43,
+    "latin": "Iussit et extendī campōs, subsīdere vāllēs,",
+    "english": "He ordered the plains to be extended, the valleys to sink,",
+    "verbs": ["Iussit", "extendī", "subsīdere"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 44,
+    "latin": "fronde tegī silvās, lapidōsōs surgere montēs.",
+    "english": "the forests to be covered with foliage, the rocky mountains to rise.",
+    "verbs": ["tegī", "surgere"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 45,
+    "latin": "Utque duae dextrā caelum totidemque sinistrā",
+    "english": "And as two zones cut the sky on the right and as many on the left,",
+    "verbs": []
+  },
+  {
+    "book_number": 1,
+    "line_number": 46,
+    "latin": "parte secant zōnae, quīnta est ārdentior illīs,",
+    "english": "a fifth is hotter than these,",
+    "verbs": ["secant", "est"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 47,
+    "latin": "sīc onus inclūsum numerō distīnxit eōdem",
+    "english": "thus the god divided the enclosed mass by the same number",
+    "verbs": ["distīnxit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 48,
+    "latin": "cūra deī, totidemque plagae tellūre premuntur.",
+    "english": "and as many zones are pressed upon the earth.",
+    "verbs": ["premuntur"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 49,
+    "latin": "Quārum quae mediā est, nōn est habitābilis aestū:",
+    "english": "Of these, the one in the middle is not habitable due to heat:",
+    "verbs": ["est"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 50,
+    "latin": "nix tegit alta duās: totidem inter utrumque locāvit",
+    "english": "deep snow covers two: he placed as many between each",
+    "verbs": ["tegit", "locāvit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 51,
+    "latin": "temperiemque dedit mixtā cum frīgore flamma.",
+    "english": "and gave them a temperate climate with a mixture of cold and heat.",
+    "verbs": ["dedit"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 52,
+    "latin": "Inminet hīs āēr. Quī quantō est pondere terrae,",
+    "english": "The air hangs over these. Which, as much as it is lighter than the earth,",
+    "verbs": ["Inminet", "est"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 53,
+    "latin": "pondere aquae levior tantō est onerōsior ignī.",
+    "english": "is heavier than water by that much, and more burdensome than fire.",
+    "verbs": ["est"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 54,
+    "latin": "Illīc et nebulās, illīc cōnsistere nūbēs",
+    "english": "There he ordered the clouds to gather, there the mists to settle",
+    "verbs": ["cōnsistere"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 55,
+    "latin": "iussit et hūmānās mōtūra tonitrua mentēs",
+    "english": "and the thunders to move human minds",
+    "verbs": ["iussit", "mōtūra"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 56,
+    "latin": "et cum fulminibus facientēs fulgura ventōs.",
+    "english": "and the winds that make lightning with thunderbolts.",
+    "verbs": ["facientēs"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 57,
+    "latin": "Hīs quoque nōn passim mundī fabricātor habendum",
+    "english": "To these also the creator of the world did not allow the air to be held everywhere:",
+    "verbs": ["habendum"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 58,
+    "latin": "āera permīsit: vix nunc obsistitur illīs,",
+    "english": "now they are scarcely resisted,",
+    "verbs": ["permīsit", "obsistitur"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 59,
+    "latin": "cum sua quisque regant dīversō flāmina tractū,",
+    "english": "when each one rules its own winds in a different direction,",
+    "verbs": ["regant"]
+  },
+  {
+    "book_number": 1,
+    "line_number": 60,
+    "latin": "quīn lanient mundum: tanta est discordia frātrum.",
+    "english": "lest they tear the world apart: so great is the discord of brothers.",
+    "verbs": ["lanient", "est"]
+  }
+]
